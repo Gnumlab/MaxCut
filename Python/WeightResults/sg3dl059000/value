@@ -1,0 +1,56 @@
+Algoritmo prob
+p = 0.643192
+The null hypothesis cannot be rejected
+p = 3.42239e-10
+The null hypothesis can be rejected
+0.04154793187039152
+p = 2.02853e-15
+The null hypothesis can be rejected
+max 34
+min -38
+mean0.4812
+std 9.725703341689435
+median 0.0
+
+Algoritmo greedy
+p = 0.365345
+The null hypothesis cannot be rejected
+p = 1.12341e-06
+The null hypothesis can be rejected
+0.09072418668651444
+p = 1.2999e-07
+The null hypothesis can be rejected
+max 86
+min 48
+mean66.597
+std 6.303993284524606
+median 66.0
+
+Algoritmo greedyProb
+p = 0.749571
+The null hypothesis cannot be rejected
+p = 0.00205063
+The null hypothesis can be rejected
+0.04789885397780386
+p = 0.0196687
+The null hypothesis can be rejected
+max 34
+min -28
+mean-2.117
+std 9.527753622396473
+median -2.0
+
+Algoritmo greedyProbFixed
+p = 0.779854
+The null hypothesis cannot be rejected
+p = 0.00629178
+The null hypothesis can be rejected
+0.04412443048663034
+p = 0.0395166
+The null hypothesis can be rejected
+max 36
+min -30
+mean0.454
+std 9.46696928839993
+median 0.0
+

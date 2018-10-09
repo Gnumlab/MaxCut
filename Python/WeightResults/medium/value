@@ -1,0 +1,27 @@
+Algoritmo prob
+max 9022
+min 7548
+mean8262.3272
+std 170.7823006039559
+median 8263.0
+
+Algoritmo greedy
+max 10702
+min 9450
+mean9984.712
+std 171.76458927884445
+median 9984.0
+
+Algoritmo greedyProb
+max 10242
+min 9090
+mean9595.735
+std 167.72848183483512
+median 9585.5
+
+Algoritmo greedyProbFixed
+max 9994
+min 8979
+mean9539.374
+std 165.2684476353057
+median 9531.0
