@@ -1,0 +1,11 @@
+reset;
+model maxcut01.mod;
+data small.dat;
+
+option solver '/home/tripps42/Ampl/gurobi';
+option gurobi 'outlev=1 logfreq=1';
+solve > grafo3.log;
+display cut >> small.txt;
+display xu >> small.txt;
+display yuv >> small.txt;
+
